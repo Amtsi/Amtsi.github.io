@@ -1,4 +1,4 @@
-		# hello-world
+# hello-world
 new hello world repository
 
 Doing a tutorial on repositories.
@@ -6,4 +6,4 @@ Doing a tutorial on repositories.
 Pushing to the repo.
 again pushing.
 
-chnged credentials
+This is project is an html project.
